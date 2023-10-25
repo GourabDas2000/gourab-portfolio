@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/gourab-portfolio/static/css/main.8e7dd59a.css",
-    "main.js": "/gourab-portfolio/static/js/main.658c7917.js",
+    "main.css": "/gourab-portfolio/static/css/main.263a583a.css",
+    "main.js": "/gourab-portfolio/static/js/main.08c91bdb.js",
     "static/js/787.69ba1fdd.chunk.js": "/gourab-portfolio/static/js/787.69ba1fdd.chunk.js",
+    "static/media/Gourab__Das.pdf": "/gourab-portfolio/static/media/Gourab__Das.eb566d500000d7305698.pdf",
     "static/media/G.jpg": "/gourab-portfolio/static/media/G.b076e4cea1f8444886ff.jpg",
     "index.html": "/gourab-portfolio/index.html",
-    "main.8e7dd59a.css.map": "/gourab-portfolio/static/css/main.8e7dd59a.css.map",
-    "main.658c7917.js.map": "/gourab-portfolio/static/js/main.658c7917.js.map",
+    "main.263a583a.css.map": "/gourab-portfolio/static/css/main.263a583a.css.map",
+    "main.08c91bdb.js.map": "/gourab-portfolio/static/js/main.08c91bdb.js.map",
     "787.69ba1fdd.chunk.js.map": "/gourab-portfolio/static/js/787.69ba1fdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e7dd59a.css",
-    "static/js/main.658c7917.js"
+    "static/css/main.263a583a.css",
+    "static/js/main.08c91bdb.js"
   ]
 }

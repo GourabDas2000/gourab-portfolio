@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gourab-portfolio/static/css/main.e8cdfca6.css",
+    "main.js": "/gourab-portfolio/static/js/main.9f6ada23.js",
+    "static/js/787.69ba1fdd.chunk.js": "/gourab-portfolio/static/js/787.69ba1fdd.chunk.js",
+    "index.html": "/gourab-portfolio/index.html",
+    "main.e8cdfca6.css.map": "/gourab-portfolio/static/css/main.e8cdfca6.css.map",
+    "main.9f6ada23.js.map": "/gourab-portfolio/static/js/main.9f6ada23.js.map",
+    "787.69ba1fdd.chunk.js.map": "/gourab-portfolio/static/js/787.69ba1fdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cdfca6.css",
+    "static/js/main.9f6ada23.js"
+  ]
+}
